@@ -1,0 +1,15 @@
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\bin\Debug\net7.0\Exercise 6.exe
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\bin\Debug\net7.0\Exercise 6.deps.json
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\bin\Debug\net7.0\Exercise 6.runtimeconfig.json
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\bin\Debug\net7.0\Exercise 6.dll
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\bin\Debug\net7.0\Exercise 6.pdb
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\obj\Debug\net7.0\Exercise 6.csproj.AssemblyReference.cache
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\obj\Debug\net7.0\Exercise 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\obj\Debug\net7.0\Exercise 6.AssemblyInfoInputs.cache
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\obj\Debug\net7.0\Exercise 6.AssemblyInfo.cs
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\obj\Debug\net7.0\Exercise 6.csproj.CoreCompileInputs.cache
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\obj\Debug\net7.0\Exercise 6.dll
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\obj\Debug\net7.0\refint\Exercise 6.dll
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\obj\Debug\net7.0\Exercise 6.pdb
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\obj\Debug\net7.0\Exercise 6.genruntimeconfig.cache
+C:\Users\MaxScalla\OneDrive\Área de Trabalho\Activity\Exercise 6\obj\Debug\net7.0\ref\Exercise 6.dll
